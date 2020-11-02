@@ -1,5 +1,3 @@
-using System;
-
 namespace ConstosoUniversity.Models
 {
     public class ErrorViewModel

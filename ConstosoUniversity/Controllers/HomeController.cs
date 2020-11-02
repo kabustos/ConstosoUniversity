@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ConstosoUniversity.Models;
 using Microsoft.AspNetCore.Mvc;
-using ConstosoUniversity.Models;
+using System.Diagnostics;
 
 namespace ConstosoUniversity.Controllers
 {
